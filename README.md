@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://profile-counter.glitch.me/ikakooo/count.svg" alt="visitors count" align="center"/>
+<p style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikakooo&layout=compact&theme=null" alt="top-langs"/></p>
